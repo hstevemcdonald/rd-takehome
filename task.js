@@ -7,11 +7,12 @@ const dataFile = fs.readFileSync('./data/helpful-reviews.json', { encoding: 'utf
 const asinStore = {}, errors = [], allMatches = [];
 let countArg, taskMode, totalMatches = 0;
 
+// determine run mode
 if (argv[2] != undefined) {
     taskMode = 'task1';
     countArg = Number(argv[2]);
 } else {
-    taskMode = 'task2'
+    taskMode = 'task2';
 }
 
 // store datafile information in object with asin as key
@@ -42,7 +43,7 @@ dataFile.forEach(row => {
     }
 })
 
-// review asin store and calculate as needed, find matches for task 1
+// review asin store and make calculations as needed, find matches for task 1
 Object.keys(asinStore).forEach(asin => {
     asinStore[asin]['aggregate'] = getAggregate(asinStore[asin]['reviews']);
     asinStore[asin]['average'] = getAverage(asinStore[asin]['reviews']);
@@ -54,23 +55,23 @@ Object.keys(asinStore).forEach(asin => {
 
 // output for task 1 or task 2
 if (taskMode === 'task1') {
-    console.log("######## TASK 1 ##################################################################")
+    console.log("######## TASK 1 ##################################################################");
     // task 1 all products with X reviews
     if (countArg >= 0) {
         if (totalMatches) {
-            console.log()
-            console.log(`#### Product${(totalMatches > 1) ? 's' : ''} with ${countArg} reviews:`)
-            console.log()
-            console.log(allMatches.join('\n'))
+            console.log();
+            console.log(`#### Product${(totalMatches != 1) ? 's' : ''} with ${countArg} reviews:`);
+            console.log();
+            console.log(allMatches.join('\n'));
         }
-        console.log()
-        console.log(`#### Found ${totalMatches} match${(totalMatches > 1) ? 'es' : ''} for ${countArg} reviews.`)
-        console.log()
+        console.log();
+        console.log(`#### Found ${totalMatches} match${(totalMatches != 1) ? 'es' : ''} for ${countArg} reviews.`);
+        console.log();
     } else {
-        console.log(`Cound not process TASK 1 with argument: ${argv[2]}`)
+        console.log(`Cound not process TASK 1 with argument: ${argv[2]}`);
     }
 } else {
-    console.log("######## TASK 2 ##################################################################")
+    console.log("######## TASK 2 ##################################################################");
     // task 2  display all products sorted by highest to lowest aggregate
     const sortedKeys = Object.keys(asinStore).sort((a, b) => {
         return asinStore[b]['aggregate'] - asinStore[a]['aggregate'];
@@ -84,7 +85,7 @@ if (taskMode === 'task1') {
 
 // any errors?
 if (errors.length) {
-    console.log({ errors })
+    console.log({ errors });
 }
 
 /**
@@ -115,3 +116,4 @@ function getAverage(reviews) {
     return 0;
 }
 
+;
