@@ -6,7 +6,7 @@ For this assignment, I coded a solution for task #1 and task #2.  I believe the 
 
 `$ npm run task-1`
 
-_Note, there are 2 examples provided in the output for task 1_
+_Note, there are 3 examples of output provided in the output for task 1_
 
 #### To display output from task 2, run
 
