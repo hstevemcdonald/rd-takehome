@@ -78,7 +78,7 @@ if (taskMode === 'task1') {
 
     sortedKeys.forEach((asin) => {
         const { aggregate, average, product_title } = asinStore[asin];
-        console.log(asin, `## Title: ${Array.from(product_title).join(';')} ## Aggregate ${aggregate}, ## Average: ${average}`)
+        console.log(asin, `## Title: ${Array.from(product_title).join(';')} ## Aggregate ${aggregate} ## Average: ${average}`)
     })
 }
 
