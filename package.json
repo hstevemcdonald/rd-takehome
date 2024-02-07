@@ -1,0 +1,19 @@
+{
+  "name": "revdoc",
+  "version": "1.0.0",
+  "description": "As an engineering candidate you have been pointed here as part of the interview process.",
+  "main": "index.js",
+  "scripts": {
+
+    "task-1": "node task.js 36 && node task.js 110 && node task.js 99999",
+    "task-2": "node task.js",
+    "dev": "nodemon node task.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
