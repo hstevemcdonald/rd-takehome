@@ -126,7 +126,7 @@ function getAverage(reviews) {
 }
 
 /**
- * Get a formatted string for an ASIN and it's data
+ * Get a formatted string for an ASIN and its data
  * @param {string} ASIN
  * @param {Object} item data 
  * @returns {string} formatted string of item data
