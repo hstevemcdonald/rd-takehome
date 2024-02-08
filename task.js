@@ -25,7 +25,7 @@ dataFile.forEach(row => {
         const asinData = rowData['asin'];
         if (!asinStore[asinData]) {
             asinStore[asinData] = {
-                // just in case there are different values for title or image for the same ASIN, add to a set - see 'Opportunities' below
+                // just in case there are different values for title or image for the same ASIN, add to a set - see 'Opportunities' in README
                 product_title: new Set(),
                 main_image_url: new Set(),
                 aggregate: 0,
