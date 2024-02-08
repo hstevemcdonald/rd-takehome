@@ -12,6 +12,13 @@ _Note, there are 3 examples of output provided in the output for task 1_
 
 `$ npm run task-2`
 
+### Big O
+
+- ASIN store operation and calculation assignment are each O(n) in time and space complexity.
+- Sort operation will depend on the number of unique ASINs in the dataset.  My understanding is that in Chrome, `.sort()` is O(n log n).
+- Interestingly, in this excercise there could very well be 1,000,000 reviews but only 500 unique ASINs, potentially adding only minimal complexity impact to O(n) overall.
+- Overall Big O would be greater than O(n) up to O(n log n), depending on the number of unique ASINs.
+
 ### Opportunities
 
 Some additional things we could do to improve upon the script:
