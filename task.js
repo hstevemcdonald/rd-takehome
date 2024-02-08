@@ -5,7 +5,7 @@ const { argv } = require('process');
 
 const dataFile = fs.readFileSync('./data/helpful-reviews.json', { encoding: 'utf8', flag: 'r' }).split('\n');
 const asinStore = {}, errors = [], allMatches = [];
-let countArg, taskMode, totalMatches = 0;
+let countArg, taskMode, totalReviewCountMatches = 0, totalRows = 0;
 
 // determine run mode
 if (argv[2] != undefined) {
@@ -37,9 +37,9 @@ dataFile.forEach(row => {
         // storing in a set will prevent duplicates
         asinStore[asinData]['product_title'].add(product_title);
         asinStore[asinData]['main_image_url'].add(main_image_url);
+        totalRows++;
     } catch (err) {
         errors.push(err)
-        return;
     }
 })
 
@@ -48,8 +48,8 @@ Object.keys(asinStore).forEach(asin => {
     asinStore[asin]['aggregate'] = getAggregate(asinStore[asin]['reviews']);
     asinStore[asin]['average'] = getAverage(asinStore[asin]['reviews']);
     if (asinStore[asin].reviews.length === countArg) {
-        totalMatches++;
-        allMatches.push(`${asin} ## Title: ${Array.from(asinStore[asin].product_title).join(';')}`);
+        totalReviewCountMatches++;
+        allMatches.push(getItemString(asin, asinStore[asin]));
     }
 })
 
@@ -58,14 +58,14 @@ if (taskMode === 'task1') {
     console.log("######## TASK 1 ##################################################################");
     // task 1 all products with X reviews
     if (countArg >= 0) {
-        if (totalMatches) {
+        if (totalReviewCountMatches) {
             console.log();
-            console.log(`#### Product${(totalMatches != 1) ? 's' : ''} with ${countArg} reviews:`);
+            console.log(`#### Product${(totalReviewCountMatches != 1) ? 's' : ''} with ${countArg} reviews:`);
             console.log();
             console.log(allMatches.join('\n'));
         }
         console.log();
-        console.log(`#### Found ${totalMatches} match${(totalMatches != 1) ? 'es' : ''} for ${countArg} reviews.`);
+        console.log(`#### Found ${totalReviewCountMatches} match${(totalReviewCountMatches != 1) ? 'es' : ''} for ${countArg} reviews.`);
         console.log();
     } else {
         console.log(`Cound not process TASK 1 with argument: ${argv[2]}`);
@@ -78,20 +78,26 @@ if (taskMode === 'task1') {
     })
 
     sortedKeys.forEach((asin) => {
-        const { aggregate, average, product_title } = asinStore[asin];
-        console.log(asin, `## Title: ${Array.from(product_title).join(';')} ## Aggregate ${aggregate} ## Average: ${average}`)
+        console.log(getItemString(asin, asinStore[asin]))
     })
+    console.log();
+    console.log(`Total rows: ${totalRows}`);
+    console.log(`Total unique ASINs: ${sortedKeys.length}`);
+    const lowestAggregate = sortedKeys[sortedKeys.length-1], highestAggregate = sortedKeys[0];
+    console.log(`ASIN w/lowest aggregate: ${lowestAggregate} (${asinStore[lowestAggregate]['aggregate']})`);
+    console.log(`ASIN w/highest aggregate: ${highestAggregate} (${asinStore[highestAggregate]['aggregate']})`);
 }
 
 // any errors?
 if (errors.length) {
-    console.log({ errors });
+    console.log('Errors:')
+    console.log(errors);
 }
 
 /**
  * Get aggregate of reviews for a single ASIN
- * @param {*} reviews 
- * @returns aggregate of reviews
+ * @param {Object[]} reviews 
+ * @returns {number} aggregate of reviews
  */
 function getAggregate(reviews) {
     const aggregate = reviews.reduce((aggregate, thisreview) => {
@@ -105,8 +111,8 @@ function getAggregate(reviews) {
 
 /**
  * Get average of reviews for a single ASIN
- * @param {*} reviews 
- * @returns average of reviews
+ * @param {Object[]} reviews 
+ * @returns {number} average of reviews
  */
 function getAverage(reviews) {
     const aggregate = getAggregate(reviews);
@@ -116,4 +122,15 @@ function getAverage(reviews) {
     return 0;
 }
 
-;
+/**
+ * Get a formatted string for an ASIN and it's data
+ * @param {string} ASIN
+ * @param {Object} item data 
+ * @returns {string} formatted string of item data
+ */
+function getItemString(asin, item) {
+    const { product_title, main_image_url } = item;
+    const aggregateString = item.aggregate ? `## Aggregate ${item.aggregate} ` : ''
+    const averageString = item.average ? `## Average ${item.average} ` : ''
+    return `${asin} ## Title: ${Array.from(product_title).join(';')} ${aggregateString}${averageString}Image: ${Array.from(main_image_url).join(';')}`
+}
