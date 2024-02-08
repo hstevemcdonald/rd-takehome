@@ -1,0 +1,25 @@
+
+> rd@1.0.0 task-1
+> node task.js 88 && node task.js 89 && node task.js 99999
+
+######## TASK 1 ##################################################################
+
+#### Product with 88 reviews:
+
+0470474874 ## Title: Excel 2010 Bible ## Aggregate 109.2 ## Average 1.24 Image: http://ecx.images-amazon.com/images/I/51p1iitErRL.jpg
+
+#### Found 1 match for 88 reviews.
+
+######## TASK 1 ##################################################################
+
+#### Products with 89 reviews:
+
+B000OG88NQ ## Title: Sony SS-CR3000 Center and Rear Channel Speaker Package ## Aggregate 118.21 ## Average 1.32 Image: http://ecx.images-amazon.com/images/I/31T-cEmAjuL.jpg
+0553391135 ## Title: Love Letters: A Rose Harbor Novel ## Aggregate 90.99 ## Average 1.02 Image: http://ecx.images-amazon.com/images/I/517vIw4438L.jpg
+
+#### Found 2 matches for 89 reviews.
+
+######## TASK 1 ##################################################################
+
+#### Found 0 matches for 99999 reviews.
+

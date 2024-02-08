@@ -1,0 +1,133 @@
+
+> rd@1.0.0 task-2
+> node task.js
+
+######## TASK 2 ##################################################################
+B00C30FCUI ## Title: Symphonized NRG Premium Genuine Wood In-ear Noise-isolating Headphones|Earbuds|Earphones with Microphone (Black) ## Aggregate 1251.51 ## Average 1.31 Image: http://ecx.images-amazon.com/images/I/416HU0yr35L.jpg
+0375703764 ## Title: House of Leaves ## Aggregate 1026.23 ## Average 1.07 Image: http://ecx.images-amazon.com/images/I/810pcXb+l3L.jpg
+B00000J0JF ## Title: Ravensburger Labyrinth ## Aggregate 907.74 ## Average 1.22 Image: http://ecx.images-amazon.com/images/I/A1uDIngqMDL.jpg
+0671015206 ## Title: The Millionaire Next Door ## Aggregate 556.79 ## Average 1.07 Image: http://ecx.images-amazon.com/images/I/81U+NbG9TqL.jpg
+B00081NX5U ## Title: iPod Detachable Receiver 7 ## Aggregate 509.98 ## Average 1.21 Image: http://ecx.images-amazon.com/images/I/51GQZT32D9L.jpg
+B00000FCBH ## Title: 2Pac Greatest Hits ## Aggregate 473.67 ## Average 0.98 Image: http://ecx.images-amazon.com/images/I/51iQ7z1W0jL.jpg
+B00B0DWB62 ## Title: Little Tikes Anchors Away Pirate Ship Water Play Table ## Aggregate 409.61 ## Average 1.13 Image: http://ecx.images-amazon.com/images/I/817iEr0lwtL.jpg
+B0000658L4 ## Title: Melissa & Doug Pizza Party Wooden Play Food Set ## Aggregate 406.71 ## Average 1.15 Image: http://ecx.images-amazon.com/images/I/811Z0XZZtVL.jpg
+B0018QROM2 ## Title: Polk Audio CS10 Center Channel Speaker Single ## Aggregate 392.32 ## Average 1.28 Image: http://ecx.images-amazon.com/images/I/51f7PG9wHNL.jpg
+B003IHUHGE ## Title: Bowers & Wilkins P5 Headphones - Black ## Aggregate 390.27 ## Average 1.27 Image: http://ecx.images-amazon.com/images/I/71mkuO-o5nL.jpg
+B000002KB8 ## Title: Black Sabbath ## Aggregate 373.97 ## Average 1.07 Image: http://ecx.images-amazon.com/images/I/81K4W71c38L.jpg
+1402241372 ## Title: The Winter Sea ## Aggregate 346.04 ## Average 1.13 Image: http://ecx.images-amazon.com/images/I/51gMZ3KRoML.jpg
+B00NAPJ8DM ## Title: Building Bricks - 1000 pc Bulk Blocks w 54 Roof Pieces and Better Variety - Tight Fit with All Brands ## Aggregate 326.25 ## Average 1.22 Image: http://ecx.images-amazon.com/images/I/51iuUDn1osL.jpg
+B0007U00XK ## Title: Sigma 10-20mm f/4-5.6 EX DC HSM Lens ## Aggregate 315.6 ## Average 1.36 Image: http://ecx.images-amazon.com/images/I/413Fhglwy8L.jpg
+B00004UFOO ## Title: Crayola Washable Super Tips ## Aggregate 282.9 ## Average 1.31 Image: http://ecx.images-amazon.com/images/I/71RDhTiphOL.jpg
+B0015450T6 ## Title: MyStudio MS20 Professional Table Top Photo Studio Lightbox Kit w/ 5000K Lighting for Product Photography, 20x20x12 inches ## Aggregate 267.6 ## Average 1.21 Image: http://ecx.images-amazon.com/images/I/71zfnZ6by7S.jpg
+0451232852 ## Title: Fall of Giants: Book One of the Century Trilogy ## Aggregate 266.38 ## Average 1.15 Image: http://ecx.images-amazon.com/images/I/91zB9X+jhwL.jpg
+B00L5LDWP8 ## Title: Radio Flyer Little Toy Wagon ## Aggregate 259 ## Average 1 Image: http://ecx.images-amazon.com/images/I/81JsQZ4OynL.jpg
+B002ZG99CC ## Title: The Karate Kid ## Aggregate 252.5 ## Average 1.03 Image: http://ecx.images-amazon.com/images/I/91z8IaTWVJL.jpg
+B008MPKAPK ## Title: Kaito KA321 Pocket-size 10-Band AM/FM Shortwave Radio with DSP (Digital Signal Processing), Black ## Aggregate 250.8 ## Average 1.28 Image: http://ecx.images-amazon.com/images/I/416jPdinWNL.jpg
+B003T90WY8 ## Title: EARBUDi Clips on and off Your Apple iPod® or iPhone® Earbuds - and Turns Them Into Sport Headphones. Soft Over-The-Ear Design with Earbud Tilt & Rotation - Provide a Custom Comfortable Fit. ## Aggregate 250.67 ## Average 1.32 Image: http://ecx.images-amazon.com/images/I/51wvXmZmxzL.jpg
+B00000F1D3 ## Title: Believe ## Aggregate 248.6 ## Average 1.02 Image: http://ecx.images-amazon.com/images/I/41H0Y95GM1L.jpg
+0618871713 ## Title: Fun Home: A Family Tragicomic ## Aggregate 240.72 ## Average 1.16 Image: http://ecx.images-amazon.com/images/I/81VWEyQoyrL.jpg
+B00IUAAJY4 ## Title: Lulu Jr. Illustory -  Craft Kit ## Aggregate 235.97 ## Average 1 Image: http://ecx.images-amazon.com/images/I/71t-qhB6ugL.jpg
+0399157867 ## Title: V is for Vengeance: A Kinsey Millhone Novel ## Aggregate 230.89 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/81YrIbqV3OL.jpg
+B000NP46K2 ## Title: Canon EF 16-35mm f/2.8L II USM Ultra Wide Angle Zoom Lens ## Aggregate 228.91 ## Average 1.31 Image: http://ecx.images-amazon.com/images/I/41OuPC6mbgL.jpg
+0671700758 ## Title: Psycho-Cybernetics, A New Way to Get More Living Out of Life ## Aggregate 227.69 ## Average 1.15 Image: http://ecx.images-amazon.com/images/I/411zKO0BCRL.jpg
+0553386697 ## Title: The Whole-Brain Child: 12 Revolutionary Strategies to Nurture Your Child's Developing Mind ## Aggregate 222.07 ## Average 1.33 Image: http://ecx.images-amazon.com/images/I/81HdbmkRjWL.jpg
+B003G9ZQQA ## Title: Mexican Train Dominoes ## Aggregate 219.87 ## Average 1.15 Image: http://ecx.images-amazon.com/images/I/71UfDbZMb9L.jpg
+B002JSM3KQ ## Title: Monopoly Board Game The Classic Edition ## Aggregate 219.26 ## Average 1.06 Image: http://ecx.images-amazon.com/images/I/915NTWZUtjL.jpg
+B00XI057M0 ## Title: Ex Machina [Blu-ray + Digital HD] ## Aggregate 218.78 ## Average 1.17 Image: http://ecx.images-amazon.com/images/I/51Kj+eNusaL.jpg
+0761165975 ## Title: The Wedding Planner & Organizer ## Aggregate 214.52 ## Average 1.14 Image: http://ecx.images-amazon.com/images/I/91iUIyXPTwL.jpg
+B00005LEOH ## Title: Nikon 80-200mm f/2.8D ED AF Zoom Nikkor Lens for Nikon Digital SLR Cameras ## Aggregate 213.19 ## Average 1.3 Image: http://ecx.images-amazon.com/images/I/81zDW+9iIQL.jpg
+B000AO3L84 ## Title: Canon 430EX Speedlite Flash for Canon EOS SLR Cameras - Older Version ## Aggregate 212.59 ## Average 1.32 Image: http://ecx.images-amazon.com/images/I/41XAEKR9D1L.jpg
+B00007E7K9 ## Title: Canon Zoom Pack 1000 for Elan and Rebel Series Cameras -Holster Style ## Aggregate 210.52 ## Average 1.36 Image: http://ecx.images-amazon.com/images/I/71roIYPgROL.jpg
+B000W7F5SS ## Title: Harry Potter and the Order of the Phoenix (Widescreen Edition) ## Aggregate 209.64 ## Average 0.99 Image: http://ecx.images-amazon.com/images/I/91E7TPDbSfL.jpg
+B0017O3UHI ## Title: Antennas Direct C2 ClearStream Television Antenna ## Aggregate 207.11 ## Average 1.13 Image: http://ecx.images-amazon.com/images/I/61k4i1jeQFL.jpg
+B00AR1G3FS ## Title: Farewell Live From Melbourne [Blu-ray] ## Aggregate 206.47 ## Average 1.16 Image: http://ecx.images-amazon.com/images/I/71EOyWgfeqL.jpg
+B00092KD9C ## Title: OP/TECH USA 1504372 Pro Loop Strap (Royal) ## Aggregate 205.16 ## Average 1.31 Image: http://ecx.images-amazon.com/images/I/61rxbuyb3gL.jpg
+B00VG90446 ## Title: Flexion KS-902 Kinetic Series Wireless Bluetooth Noise Cancelling Headphones with Microphone, Black ## Aggregate 200.7 ## Average 1.35 Image: http://ecx.images-amazon.com/images/I/51O-QlBLZKL.jpg
+B002NKM4C2 ## Title: Yamaha CD-C600BL 5-Disc CD Changer (Black) ## Aggregate 199.28 ## Average 1.19 Image: http://ecx.images-amazon.com/images/I/71sr3IboLOL.jpg
+B008FSCNTK ## Title: Glad Rag Doll ## Aggregate 190.73 ## Average 0.94 Image: http://ecx.images-amazon.com/images/I/71YGLpEIXnL.jpg
+B004OS8J98 ## Title: Fisher-Price Imaginext DC Super Friends Batcave ## Aggregate 187.58 ## Average 1.17 Image: http://ecx.images-amazon.com/images/I/81R0TRuy0qL.jpg
+B00ITOAYOQ ## Title: Nickelodeon, Paw Patrol - Ryder's Rescue ATV, Vehicle and Figure (works with Paw Patroller) ## Aggregate 183.49 ## Average 1.07 Image: http://ecx.images-amazon.com/images/I/81RlNgh7ceL.jpg
+B00DPKQ60A ## Title: Yours Truly ## Aggregate 182.72 ## Average 1.13 Image: http://ecx.images-amazon.com/images/I/61gkJ76UizL.jpg
+B006KD37TC ## Title: Wi-Fi Music Player with 3.5-Inch Color Display ## Aggregate 174.26 ## Average 1.25 Image: http://ecx.images-amazon.com/images/I/81H1IKyze2L.jpg
+B0002MQGR2 ## Title: Optical Splitter ## Aggregate 173.07 ## Average 1.11 Image: http://ecx.images-amazon.com/images/I/41UpOLPeBxL.jpg
+B000002KHF ## Title: Moondance ## Aggregate 169.33 ## Average 1.12 Image: http://ecx.images-amazon.com/images/I/51RV37clhWL.jpg
+B0011000R6 ## Title: Gary Fong Puffer Pop Up flash Diffuser for DSLR's CANON / NIKON / OLYMPUS / PENTAX (excluding Canon T4i) ## Aggregate 167.05 ## Average 1.25 Image: http://ecx.images-amazon.com/images/I/61focgrGi7L.jpg
+B000002GJH ## Title: Temple Of The Dog ## Aggregate 166 ## Average 1.08 Image: http://ecx.images-amazon.com/images/I/518P0F1DBGL.jpg
+B000P0J09C ## Title: Full Metal Jacket ## Aggregate 161.55 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/81trsp4+MEL.jpg
+B00HWWDV5A ## Title: Symphonica ## Aggregate 152.99 ## Average 1.18 Image: http://ecx.images-amazon.com/images/I/71Zv11kUTjL.jpg
+B007R3AZNK ## Title: Driving Towards The Daylight ## Aggregate 151.89 ## Average 1.15 Image: http://ecx.images-amazon.com/images/I/71T0MOGDaiL.jpg
+0451414047 ## Title: To Selena, with Love ## Aggregate 150.89 ## Average 1.08 Image: http://ecx.images-amazon.com/images/I/51kOlFQ7DpL.jpg
+B00BLG5CSC ## Title: Philips ActionFit Sports Earhook Headphones ## Aggregate 150.4 ## Average 1.35 Image: http://ecx.images-amazon.com/images/I/61QM9xk6X-L.jpg
+0670012335 ## Title: Llama Llama Time to Share ## Aggregate 149.84 ## Average 1.19 Image: http://ecx.images-amazon.com/images/I/A1ks6FGtr0L.jpg
+B003HC9JIW ## Title: Start! Walking At Home with Leslie Sansone:  Beginner/Intermediate - 1 & 2 Mile Walk ## Aggregate 149.56 ## Average 1.14 Image: http://ecx.images-amazon.com/images/I/51u7P1dbtxL.jpg
+B000ONDRFS ## Title: Flip Video Camcorder ## Aggregate 148.6 ## Average 1.22 Image: http://ecx.images-amazon.com/images/I/81CofGfT-hS.jpg
+B001DKO7R8 ## Title: SD/SDHC/MMC/Eye-Fi card to Compact Flash CF Type II Adapter for Professional DSLR Digital SLR Camera PDA Pocket PC ## Aggregate 148.35 ## Average 1.24 Image: http://ecx.images-amazon.com/images/I/51T6HPiV0QL.jpg
+B0007QKMQY ## Title: Canon Digital Rebel XT 8MP Digital SLR Camera ## Aggregate 147.16 ## Average 1.26 Image: http://ecx.images-amazon.com/images/I/51G31QKNJFL.jpg
+0790731886 ## Title: Arthur (1981) ## Aggregate 146.68 ## Average 1.08 Image: http://ecx.images-amazon.com/images/I/91I6ZbfQl3L.jpg
+B00023GGHQ ## Title: De-Lovely ## Aggregate 145.78 ## Average 1.12 Image: http://ecx.images-amazon.com/images/I/71wSUy+VP5L.jpg
+0783225482 ## Title: Death Becomes Her ## Aggregate 137.1 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/51z2Gp2lmDL.jpg
+B0002COTDA ## Title: Columbo - The Complete First Season ## Aggregate 133.22 ## Average 1 Image: http://ecx.images-amazon.com/images/I/41pYBQGm-2L.jpg
+B001SEQPGK ## Title: Sony Cyber-shot DSC-W290 12 MP Digital Camera with 5x Optical Zoom and Super Steady Shot Image Stabilization ## Aggregate 128.92 ## Average 1.3 Image: http://ecx.images-amazon.com/images/I/71KLvmtcN9L.jpg
+0061208493 ## Title: The Complete C. S. Lewis Signature Classics ## Aggregate 128.16 ## Average 1.16 Image: http://ecx.images-amazon.com/images/I/81rZBiijb1L.jpg
+B00062RV18 ## Title: Educational Insights GeoSafari Motorized Solar System ## Aggregate 127.86 ## Average 1.16 Image: http://ecx.images-amazon.com/images/I/71Kebi5JlZL.jpg
+B0042FDCMM ## Title: Jane Fonda: Prime Time – Walkout ## Aggregate 126.4 ## Average 1.19 Image: http://ecx.images-amazon.com/images/I/41Czp+U5ZLL.jpg
+B000BN8Y2W ## Title: Jr. Fire Fighter Suit with embroidered Cap ## Aggregate 125.61 ## Average 1.14 Image: http://ecx.images-amazon.com/images/I/71GMzHZOTDL.jpg
+B0000DZTIW ## Title: The Last Samurai ## Aggregate 125.24 ## Average 1.12 Image: http://ecx.images-amazon.com/images/I/71-BdYl9vzL.jpg
+B00KU9LQUO ## Title: King of New York Board Game ## Aggregate 124.63 ## Average 1.23 Image: http://ecx.images-amazon.com/images/I/91H7TLUPYqL.jpg
+B00LOY6G1I ## Title: Juggle Bubbles Activity Kit, Bubble Maker, Bubble Game, SEEN ON TV ## Aggregate 124.44 ## Average 1.1 Image: http://ecx.images-amazon.com/images/I/81TkoSkhO-L.jpg
+B0019FHM9M ## Title: Lowpricenice MH2001 5-in-1 Wireless Headphones w/Microphone Emitter & FM Radio - Listen to Music, Chat Online & Monitor Other Rooms! ## Aggregate 123.6 ## Average 1.12 Image: http://ecx.images-amazon.com/images/I/41naHn2FKWL.jpg
+B0006ZOV5E ## Title: Room Noises ## Aggregate 121.4 ## Average 1.14 Image: http://ecx.images-amazon.com/images/I/81nhkvWohBL.jpg
+B000002IAO ## Title: In-A-Gadda-Da-Vida ## Aggregate 120.86 ## Average 1.01 Image: http://ecx.images-amazon.com/images/I/91erUc5swfL.jpg
+B001NESPHC ## Title: My One And Only Thrill ## Aggregate 120.3 ## Average 1.08 Image: http://ecx.images-amazon.com/images/I/51czCy04hwL.jpg
+B004UKNJCM ## Title: Whoowasit? Award-Winning Board Game Electronics ## Aggregate 119.94 ## Average 1.18 Image: http://ecx.images-amazon.com/images/I/915552Zm8zL.jpg
+B00004RD54 ## Title: Rock 'n' Roll Animal (Live) ## Aggregate 119.93 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/71eihBGDpML.jpg
+0062065254 ## Title: The Round House: A Novel ## Aggregate 119.3 ## Average 1.19 Image: http://ecx.images-amazon.com/images/I/51T9UKYpQDL.jpg
+B00002E220 ## Title: Last of the Dogmen ## Aggregate 118.7 ## Average 1.01 Image: http://ecx.images-amazon.com/images/I/51PCHRAW0PL.jpg
+B000OG88NQ ## Title: Sony SS-CR3000 Center and Rear Channel Speaker Package ## Aggregate 118.21 ## Average 1.32 Image: http://ecx.images-amazon.com/images/I/31T-cEmAjuL.jpg
+B0015DNIOG ## Title: Canon Battery Pack NB-6L ## Aggregate 116.82 ## Average 1.21 Image: http://ecx.images-amazon.com/images/I/61qxonlw3OL.jpg
+B000ANVPP6 ## Title: Hondo (Full Screen) ## Aggregate 116.38 ## Average 1.12 Image: http://ecx.images-amazon.com/images/I/51AzKokhsEL.jpg
+B00CKH9URU ## Title: Max Steel Interactive Steel with Turbo Sword ## Aggregate 116.1 ## Average 1.16 Image: http://ecx.images-amazon.com/images/I/7178tVWycxL.jpg
+014312417X ## Title: Mastery ## Aggregate 114.58 ## Average 1.03 Image: http://ecx.images-amazon.com/images/I/71LRdEUOmNL.jpg
+B000L212HC ## Title: The Prestige [Blu-ray] ## Aggregate 113.7 ## Average 1.23 Image: http://ecx.images-amazon.com/images/I/51whgYqON5L.jpg
+0399162089 ## Title: Outside the Lines: An Artists' Coloring Book for Giant Imaginations ## Aggregate 111.73 ## Average 1.18 Image: http://ecx.images-amazon.com/images/I/A1aGNgxeIcL.jpg
+B00000JZC7 ## Title: Bitter ## Aggregate 109.3 ## Average 1.06 Image: http://ecx.images-amazon.com/images/I/715b4h8ZKJL.jpg
+0470474874 ## Title: Excel 2010 Bible ## Aggregate 109.2 ## Average 1.24 Image: http://ecx.images-amazon.com/images/I/51p1iitErRL.jpg
+B0010K8IM6 ## Title: Pyle 3000 Watt Premium Home Audio Power Amplifier - Portable 4 Channel Surround Sound Stereo Receiver w/ Speaker Selector & Remote - For Amplified TV, Subwoofer Speakers, Theater & PA System - PT3300 ## Aggregate 108.41 ## Average 1.15 Image: http://ecx.images-amazon.com/images/I/61veTElGitL.jpg
+B000ANVPPQ ## Title: McLintock! (Authentic Collector's Edition) ## Aggregate 106 ## Average 1.01 Image: http://ecx.images-amazon.com/images/I/51VKBZFQRRL.jpg
+B0093IZSGG ## Title: Philips SoundShooter Wireless Bluetooth Portable Speaker ## Aggregate 104.97 ## Average 1.22 Image: http://ecx.images-amazon.com/images/I/71jnxWu7JZL.jpg
+B000OVLBFS ## Title: Jesse Stone: Night Passage ## Aggregate 104.04 ## Average 1.03 Image: http://ecx.images-amazon.com/images/I/518hg7kiAPL.jpg
+B00BPEJX12 ## Title: The World's End [Blu-ray] ## Aggregate 101.14 ## Average 1.05 Image: http://ecx.images-amazon.com/images/I/81jxyrC7rEL.jpg
+B00005QT9O ## Title: Mixed Nuts ## Aggregate 98 ## Average 1.06 Image: http://ecx.images-amazon.com/images/I/51PR4CJZZ1L.jpg
+B00005JPMZ ## Title: TMNT ## Aggregate 94.31 ## Average 1.02 Image: http://ecx.images-amazon.com/images/I/91vXjsklrTL.jpg
+B001196MG0 ## Title: Savage 107X12-1 Seamless Background Paper, 107-Inch x 12 Yards - Super White ## Aggregate 91.39 ## Average 1.07 Image: http://ecx.images-amazon.com/images/I/11+6ow0DIwL.jpg
+0553391135 ## Title: Love Letters: A Rose Harbor Novel ## Aggregate 90.99 ## Average 1.02 Image: http://ecx.images-amazon.com/images/I/517vIw4438L.jpg
+076362344X ## Title: Ish (Creatrilogy) ## Aggregate 90.09 ## Average 1.14 Image: http://ecx.images-amazon.com/images/I/41FcN69t78L.jpg
+B00766BEZG ## Title: Grace Digital ACC-IRCLI Rechargeable Battery Pack for Mondo and Mondo+ ## Aggregate 89.95 ## Average 1.13 Image: http://ecx.images-amazon.com/images/I/41VXHNBhn5L.jpg
+B008CQVSXC ## Title: urBeats In-Ear Headphone - White ## Aggregate 89.89 ## Average 1.19 Image: http://ecx.images-amazon.com/images/I/71rAqOHdXEL.jpg
+B000UJBY4W ## Title: The Best Of Chicago: 40th Anniversary Edition (2CD) ## Aggregate 89.23 ## Average 1.11 Image: http://ecx.images-amazon.com/images/I/713ZDCxq8OL.jpg
+B000IHY9UM ## Title: Da-fat Burning Dance Mix ## Aggregate 87.4 ## Average 1.13 Image: http://ecx.images-amazon.com/images/I/51Hi0NCgxKL.jpg
+B0061ZFWBU ## Title: Connectland Stereo Wired Headphone & Microphone Lightweight 40mm Speaker Music Gaming Stylish Teal CL-AUD63035 ## Aggregate 84.37 ## Average 1.22 Image: http://ecx.images-amazon.com/images/I/61HR6WxXX1L.jpg
+B0001WE6U2 ## Title: Nikon HB-32 Flower Type Lens Shade for 18-70mm DX Nikkor Lens ## Aggregate 80.47 ## Average 1.29 Image: http://ecx.images-amazon.com/images/I/71Y5cye6RCL.jpg
+B003RHZ66Q ## Title: Barbie: A Fashion Fairytale ## Aggregate 79.72 ## Average 1 Image: http://ecx.images-amazon.com/images/I/51VSSaW5VAL.jpg
+B00007JZVB ## Title: Discover Bellydance ## Aggregate 79.3 ## Average 1.1 Image: http://ecx.images-amazon.com/images/I/512RAZNR06L.jpg
+B00NF4POZO ## Title: The Art of McCartney (Amazon Deluxe Exclusive) (2 CD + 1 DVD) ## Aggregate 78.76 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/71a1Us9K7NL.jpg
+B0065WM4PQ ## Title: Romantic Ocean Daren Sea Waves Projector Lamp MP3 iPhone Speaker LED Night Light (Blue) ## Aggregate 77.94 ## Average 1.11 Image: http://ecx.images-amazon.com/images/I/512ieI1PQJL.jpg
+0061235970 ## Title: Fancy Nancy: Tea for Two ## Aggregate 75.59 ## Average 1.14 Image: http://ecx.images-amazon.com/images/I/61ARpCYs2bL.jpg
+B00013M6NU ## Title: Nikon MH-61 Battery Charger for Nikon EN-EL5 Batteries ## Aggregate 74.79 ## Average 1.24 Image: http://ecx.images-amazon.com/images/I/41XR3APDJBL.jpg
+B001K5UQX0 ## Title: Opteka 0.20X Professional Super AF Fisheye Lens for Nikon D4s, D4, D3x, Df, D810, D800, D750, D610, D600, D7200, D7100, D7000, D5500, D5300, D5200, D5100, D3300, D3200 and D3100 Digital SLR Cameras ## Aggregate 69.6 ## Average 1.22 Image: http://ecx.images-amazon.com/images/I/51I+oONHYKL.jpg
+B00SVYNSRE ## Title: Human ## Aggregate 67.72 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/71eOmDn76+L.jpg
+0064430170 ## Title: Goodnight Moon ## Aggregate 64.41 ## Average 1.11 Image: http://ecx.images-amazon.com/images/I/61ZfoLVFjnL.jpg
+B008B68IUY ## Title: Monster High Travel Scaris Convertible Vehicle ## Aggregate 64.1 ## Average 1.12 Image: http://ecx.images-amazon.com/images/I/712BE74LwKL.jpg
+B003G55KVA ## Title: Monkey Figures 25 Tiny Plastic Monkey Figures Party Favors by A&A ## Aggregate 63.7 ## Average 1.04 Image: http://ecx.images-amazon.com/images/I/51HaQikn1aL.jpg
+B000ME8R22 ## Title: Sony NPFH50 H Series Actiforce Hybrid InfoLithium Battery for most Sony Camcorders and A230, A330 and A380 Alpha DSLR (Retail Packaging) ## Aggregate 62.95 ## Average 1.28 Image: http://ecx.images-amazon.com/images/I/61qnkfCQ2kL.jpg
+B000HKDE7Y ## Title: Struggle From The Subway To The Charts ## Aggregate 61.47 ## Average 1.09 Image: http://ecx.images-amazon.com/images/I/71L+iEd8uZL.jpg
+B004BFVKSQ ## Title: My First Disney Princess Disney Toddler Rapunzel ## Aggregate 52.49 ## Average 1.04 Image: http://ecx.images-amazon.com/images/I/912HI5VFelL.jpg
+B002GQPSZI ## Title: JVC Inner Ear Sports Clip Headphone ## Aggregate 48.99 ## Average 1.36 Image: http://ecx.images-amazon.com/images/I/71Jln8nSPPL.jpg
+B006SUWZH2 ## Title: Memorex Portable CD Boombox with AM FM Radio ## Aggregate 46.95 ## Average 1.26 Image: http://ecx.images-amazon.com/images/I/61A2WQOLUaL.jpg
+B0009PEU3Y ## Title: Nikon MH-18a Quick Battery Charger for the EN-EL3e Battery compatible with Nikon D80, D200, D300 and D700 Digital SLR Cameras ## Aggregate 42.9 ## Average 1.3 Image: http://ecx.images-amazon.com/images/I/61MrefGvNiL.jpg
+B001SLFN7U ## Title: CowboyStudio Hand Painted Blue and Purple Muslin Photo Backdrop ## Aggregate 36.7 ## Average 1.07 Image: http://ecx.images-amazon.com/images/I/61wRWjOX++L.jpg
+
+Total rows: 20000
+Total unique ASINs: 123
+ASIN w/lowest aggregate: B001SLFN7U (36.7)
+ASIN w/highest aggregate: B00C30FCUI (1251.51)
