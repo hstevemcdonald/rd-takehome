@@ -70,7 +70,7 @@ if (taskMode === 'task1') {
     } else {
         console.log(`Cound not process TASK 1 with argument: ${argv[2]}`);
     }
-} else {
+} else if (taskMode === 'task2') {
     console.log("######## TASK 2 ##################################################################");
     // task 2  display all products sorted by highest to lowest aggregate
     const sortedKeys = Object.keys(asinStore).sort((a, b) => {
@@ -86,6 +86,9 @@ if (taskMode === 'task1') {
     const lowestAggregate = sortedKeys[sortedKeys.length-1], highestAggregate = sortedKeys[0];
     console.log(`ASIN w/lowest aggregate: ${lowestAggregate} (${asinStore[lowestAggregate]['aggregate']})`);
     console.log(`ASIN w/highest aggregate: ${highestAggregate} (${asinStore[highestAggregate]['aggregate']})`);
+} else {
+    // no work to be done
+    console.log('No tasks to run!')
 }
 
 // any errors?
