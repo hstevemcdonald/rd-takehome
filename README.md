@@ -23,7 +23,6 @@ _Note, there are 3 examples of output provided in the output for task 1_
 
 Some additional things we could do to improve upon the script:
  - Store static data like title, image outside of reviews data (unless a review is mapped to a 'title/image' at a point in time)
- - Output data as csv, including image url
- - Function to display output for each product row with flags to control fields to be displayed
+ - Output data as csv
  - Add the ability to specify a range of total reviews
  - Use library or function for cleaner/prettier console output instead of console.log()
